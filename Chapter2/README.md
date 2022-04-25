@@ -73,7 +73,7 @@ TypeScript is good at inferring types for you!
 TypeScript is a `gradually typed` language. TS works best when it knows the types of everything in your program at compile time, but it doesn't have to know every type in order to compile your program. 
 
 ### When are errors surfaced?
-There are lots of errors that TS can't catch for you at compile time -- things like stack overflows, broken network conneections, and malformed user inputs -- that will still result in runtime exceptions.
+There are lots of errors that TS can't catch for you at compile time -- things like stack overflows, broken network connections, and malformed user inputs -- that will still result in runtime exceptions.
 
 
 ## Code Editor Setup
